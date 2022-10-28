@@ -1,0 +1,352 @@
+index,tehsil_name,tehsil_code_census,tehsil_name_english,district_code,district_name,district_name_english
+0,अमरोहा,00730,Amroha,137,अमरोहा,Amroha
+1,धनौरा,00729,Dhanaura,137,अमरोहा,Amroha
+2,नौगावां सादात,01056,Naugawan Sadat,137,अमरोहा,Amroha
+3,हसनपुर,00731,Hasanpur,137,अमरोहा,Amroha
+4,अमेठी,00914,Amethi,203,अमेठी,Amethi
+5,गौरीगंज,00913,Gauriganj,203,अमेठी,Amethi
+6,तिलोई,00824,Tiloi,203,अमेठी,Amethi
+7,मुसाफिरखाना,00912,Musafirkhana,203,अमेठी,Amethi
+8,अकबरपुर,00910,Akbarpur,178,अम्बेडकरनगर,Ambedkarnagar
+9,आलापुर,00908,Alapur,178,अम्बेडकरनगर,Ambedkarnagar
+10,जलालपुर,00909,Jalalpur,178,अम्बेडकरनगर,Ambedkarnagar
+11,टाण्डा,00907,Tanda,178,अम्बेडकरनगर,Ambedkarnagar
+12,भीटी,00911,Bhiti,178,अम्बेडकरनगर,Ambedkarnagar
+13,बीकापुर,00906,Bikapur,177,अयोध्या,Ayodhya
+14,मिल्कीपुर,00903,Milkipur,177,अयोध्या,Ayodhya
+15,रूदौली,00902,Rudauli,177,अयोध्या,Ayodhya
+16,सदर,00905,Faizabad,177,अयोध्या,Ayodhya
+17,सोहावल,00904,Sohwal,177,अयोध्या,Ayodhya
+18,अतरोली,00754,Atrauli,143,अलीगढ़,Aligarh
+19,इगलास,00756,Iglas,143,अलीगढ़,Aligarh
+20,कोल,00755,Koil,143,अलीगढ़,Aligarh
+21,खैर,00752,Khair,143,अलीगढ़,Aligarh
+22,गभाना,00753,Gabhana,143,अलीगढ़,Aligarh
+23,आगरा,00766,Agra,146,आगरा,Agra
+24,एत्मादपुर,00765,Etmadpur,146,आगरा,Agra
+25,किरावली,00767,Kiraoli,146,आगरा,Agra
+26,खेरागढ़,00768,Kheragarh,146,आगरा,Agra
+27,फतेहाबाद,00769,Fatehabad,146,आगरा,Agra
+28,बाह,00770,Bah,146,आगरा,Agra
+29,निजामाबाद,00967,Nizamabad,191,आजमगढ,Azamgarh
+30,फूलपुर,00968,Phulpur,191,आजमगढ,Azamgarh
+31,बूढ़नपुर,00964,Burhanpur,191,आजमगढ,Azamgarh
+32,मार्टिनगंज,01045,Martinganj,191,आजमगढ,Azamgarh
+33,मेहनगर,00970,Mehnagr,191,आजमगढ,Azamgarh
+34,लालगंज,00969,Lalganj,191,आजमगढ,Azamgarh
+35,सगड़ी,00965,Sagri,191,आजमगढ,Azamgarh
+36,सदर,00966,Azamgarh ,191,आजमगढ,Azamgarh
+37,इटावा,00838,Etawah,161,इटावा,Etawah
+38,चकरनगर,00840,Chakarnagar,161,इटावा,Etawah
+39,जसवंतनगर,00836,Jaswantnagar,161,इटावा,Etawah
+40,ताखा,01013,Takha,161,इटावा,Etawah
+41,भरथना,00839,Bharthana,161,इटावा,Etawah
+42,सैफई,00837,Saifai,161,इटावा,Etawah
+43,उन्नाव,00816,Unnao,156,उन्नाव,Unnao
+44,पुरवा,00817,Purwa ,156,उन्नाव,Unnao
+45,बांगरमऊ,01038,Bangarmau,156,उन्नाव,Unnao
+46,बीघापुर,00818,Bighapur,156,उन्नाव,Unnao
+47,सफीपुर,00814,Safipur,156,उन्नाव,Unnao
+48,हसनगंज,00815,Hasanganj,156,उन्नाव,Unnao
+49,अलीगंज,01007,Aliganj,201,एटा,Etah
+50,एटा,01008,Eta,201,एटा,Etah
+51,जलेसर,01009,Jlesr,201,एटा,Etah
+52,अजीतमल,01026,Ajitmal,162,औरैया,Auraya
+53,औरैया,00842,Auraiya,162,औरैया,Auraya
+54,बिधूना,00841,Bidhuna,162,औरैया,Auraya
+55,कन्नौज,00834,Kannauj,160,कन्नौज,Kannauj
+56,छिबरामऊ,00833,Chhibramau,160,कन्नौज,Kannauj
+57,तिर्वा,00835,Tirwa,160,कन्नौज,Kannauj
+58,हसेरन,01061,Haseran,160,कन्नौज,Kannauj
+59,अकबरपुर,00845,Akbarpur,163,कानपुर देहात,Kanpurdehat
+60,डेरापुर,00844,Derapur,163,कानपुर देहात,Kanpurdehat
+61,भोगनीपुर,00846,Bhognipur,163,कानपुर देहात,Kanpurdehat
+62,मैथा,01050,Maitha,163,कानपुर देहात,Kanpurdehat
+63,रसूलाबाद,00843,Rasulabad,163,कानपुर देहात,Kanpurdehat
+64,सिकन्दरा,00847,Sikandra,163,कानपुर देहात,Kanpurdehat
+65,कानपुर सदर,00849,Kanpur Sadar,164,कानपुर नगर,Kanpurnagar
+66,घाटमपुर,00850,Ghatampur,164,कानपुर नगर,Kanpurnagar
+67,नरवल,01049,Narval,164,कानपुर नगर,Kanpurnagar
+68,बिल्हौर,00848,Bilhaur,164,कानपुर नगर,Kanpurnagar
+69,कासगंज,01010,Kasganj,202,कासगंज,Kasganj
+70,पटियाली,01012,Patiali,202,कासगंज,Kasganj
+71,सहावर,01011,Sahawar,202,कासगंज,Kasganj
+72,कप्तानगंज,01037,Kaptanganj,189,कुशीनगर,Kushinagar
+73,कसया,00957,Kasya,189,कुशीनगर,Kushinagar
+74,खड्डा,01036,Khadda,189,कुशीनगर,Kushinagar
+75,तमकुही राज,00958,Tamkuhi Raj,189,कुशीनगर,Kushinagar
+76,पडरौना,00955,Padrauna,189,कुशीनगर,Kushinagar
+77,हाटा,00956,Hata,189,कुशीनगर,Kushinagar
+78,चायल,00887,Chayal,174,कौशाम्बी,Kaushambhi
+79,मंझनपुर,00886,Manjhanpur,174,कौशाम्बी,Kaushambhi
+80,सिराथू,00885,Sirathu,174,कौशाम्बी,Kaushambhi
+81,गोला,00799,Gola Gokaran Nath,153,खीरी,Kheri
+82,धौरहरा,00802,Dhaurahara,153,खीरी,Kheri
+83,निंघासन,00797,Nighasan,153,खीरी,Kheri
+84,पलिया,00798,Palia,153,खीरी,Kheri
+85,मितौली,01030,Mitauli,153,खीरी,Kheri
+86,मोहम्मदी,00800,Mohammadi,153,खीरी,Kheri
+87,लखीमपुर खीरी,00801,Lakhimpur Kheri,153,खीरी,Kheri
+88,गाजियाबाद,00739,Ghaziabad,140,गाजियाबाद,Ghaziabad
+89,मोदीनगर,00738,Modinagar,140,गाजियाबाद,Ghaziabad
+90,लोनी,01028,Loni,140,गाजियाबाद,Ghaziabad
+91,कासिमाबाद,01043,Kasimabad,195,गाजीपुर,Ghazipur
+92,गाजीपुर,00989,Ghazipur,195,गाजीपुर,Ghazipur
+93,जखनियाँ,00987,Jakhania,195,गाजीपुर,Ghazipur
+94,जमानियां,00991,Zamania,195,गाजीपुर,Ghazipur
+95,मुहम्मदावाद,00990,Mohammadabad ,195,गाजीपुर,Ghazipur
+96,सेवराई,01051,Sevrai,195,गाजीपुर,Ghazipur
+97,सैदपुर,00988,Saidpur,195,गाजीपुर,Ghazipur
+98,कैम्पियरगंज,00948,Campierganj,188,गोरखपुर,Gorakhpur
+99,खजनी,00953,Khajni,188,गोरखपुर,Gorakhpur
+100,गोला,00954,Gola ,188,गोरखपुर,Gorakhpur
+101,चौरीचौरा,00951,Chauri Chaura,188,गोरखपुर,Gorakhpur
+102,बाँसगांव,00952,Bansgaon,188,गोरखपुर,Gorakhpur
+103,सदर,00950,Gorakhpur,188,गोरखपुर,Gorakhpur
+104,सहजनवां,00949,Sahjanwa,188,गोरखपुर,Gorakhpur
+105,करनैलगंज,00929,Colonelganj ,183,गोंडा,Gonda
+106,गोण्डा,00928,Gonda,183,गोंडा,Gonda
+107,तरबगंज,00930,Tarabganj,183,गोंडा,Gonda
+108,मनकापुर,00931,MANKAPUR,183,गोंडा,Gonda
+109,गौतमबुद्धनगर,00743,Gautam Buddha Nagar,141,गौतम बुद्ध नगर,Gbnagar
+110,जेवर,00744,Jewar,141,गौतम बुद्ध नगर,Gbnagar
+111,दादरी,00742,Dadri,141,गौतम बुद्ध नगर,Gbnagar
+112,चकिया,00994,Chakia,196,चन्दौली,Chandauli
+113,चन्दौली,00993,Chandauli,196,चन्दौली,Chandauli
+114,नौगढ़,01053,Naugarh,196,चन्दौली,Chandauli
+115,मुगलसराय,01042,Mugalsarai,196,चन्दौली,Chandauli
+116,सकलडीहा,00992,Sakaldiha,196,चन्दौली,Chandauli
+117,कर्वी,00875,Karwi,171,चित्रकूट,Chitrakoot
+118,मऊ,00876,Mau,171,चित्रकूट,Chitrakoot
+119,मानिकपुर,01031,Manikpur,171,चित्रकूट,Chitrakoot
+120,राजापुर,01032,Rajapur,171,चित्रकूट,Chitrakoot
+121,उरई,00854,Orai,165,जालौन,Jalaun
+122,कालपी,00853,Kalpi,165,जालौन,Jalaun
+123,कोंच,00855,Konch,165,जालौन,Jalaun
+124,जालौन,00852,Jalaun,165,जालौन,Jalaun
+125,माधौगढ़,00851,Madhogarh,165,जालौन,Jalaun
+126,केराकत,00986,Kerakt,194,जौनपुर,Jaunpur
+127,बदलापुर,00982,Badlapur,194,जौनपुर,Jaunpur
+128,मछली शहर,00983,Machhlishahr,194,जौनपुर,Jaunpur
+129,मडियाहूँ,00985,Mariahu ,194,जौनपुर,Jaunpur
+130,शाहगंज,00981,Shahganj,194,जौनपुर,Jaunpur
+131,सदर,00984,Jaunpur ,194,जौनपुर,Jaunpur
+132,गरौठा,00857,Garautha,166,झांसी,Jhansi
+133,झांसी,00860,Jhansi,166,झांसी,Jhansi
+134,टहरौली,00858,Tehroli,166,झांसी,Jhansi
+135,मऊरानीपुर,00859,Mauranipur,166,झांसी,Jhansi
+136,मोंठ,00856,Moth,166,झांसी,Jhansi
+137,देवरिया,00959,Deoria,190,देवरिया,Deoria
+138,बरहज,00961,Brhaz,190,देवरिया,Deoria
+139,भाटपाररानी,00963,Batparrani,190,देवरिया,Deoria
+140,रुद्रपुर,00960,Rudrapur,190,देवरिया,Deoria
+141,सलेमपुर,00962,Slempur,190,देवरिया,Deoria
+142,अमरिया,01059,Amariya,151,पीलीभीत,Pilibhit
+143,कलीनगर,01057,Kalinagar,151,पीलीभीत,Pilibhit
+144,पीलीभीत,00790,Pilibhit,151,पीलीभीत,Pilibhit
+145,पूरनपुर,00792,Puranpur,151,पीलीभीत,Pilibhit
+146,बीसलपुर,00791,Bisalpur,151,पीलीभीत,Pilibhit
+147,कुण्डा,00881,Kunda,173,प्रतापगढ,Pratapgarh
+148,पटटी,00883,Patti,173,प्रतापगढ,Pratapgarh
+149,प्रतापगढ़,00882,Pratapgarh,173,प्रतापगढ,Pratapgarh
+150,रानीगंज,00884,Raniganj,173,प्रतापगढ,Pratapgarh
+151,लालगंज,00880,Lalganj,173,प्रतापगढ,Pratapgarh
+152,करछना,00892,Karchna,175,प्रयागराज,Prayagraj
+153,कोरांव,00895,Koraon,175,प्रयागराज,Prayagraj
+154,फूलपुर,00889,Phulpur,175,प्रयागराज,Prayagraj
+155,बारा,00891,Bara,175,प्रयागराज,Prayagraj
+156,मेजा,00894,Meja,175,प्रयागराज,Prayagraj
+157,सदर,00890,Allahabad,175,प्रयागराज,Prayagraj
+158,सोरांव,00888,Soraon,175,प्रयागराज,Prayagraj
+159,हंडिया,00893,Handia,175,प्रयागराज,Prayagraj
+160,खागा,00879,Khaga,172,फतेहपुर,Fatehpur
+161,फतेहपुर सदर,00878,Fatehpur Sadar,172,फतेहपुर,Fatehpur
+162,बिन्दकी,00877,Bindki,172,फतेहपुर,Fatehpur
+163,अमृतपुर,00831,Amritpur,159,फर्रूखाबाद,Farrukhabad
+164,कायमगंज,00830,Kaymganj,159,फर्रूखाबाद,Farrukhabad
+165,र्फरुखाबाद,00832,Farrukhabad ,159,फर्रूखाबाद,Farrukhabad
+166,जसराना,00773,Jasrana,147,फिरोजाबाद,Firozabad
+167,टूण्डला,00771,Tundla,147,फिरोजाबाद,Firozabad
+168,फिरोजाबाद,00772,Firozabad,147,फिरोजाबाद,Firozabad
+169,शिकोहावाद,00774,Shikohabad,147,फिरोजाबाद,Firozabad
+170,सिरसागंज,01040,Sirsaganj,147,फिरोजाबाद,Firozabad
+171,दातागंज,00783,Dataganj,149,बदायूँ,Badaun
+172,बदायूँ,00782,Badaun,149,बदायूँ,Badaun
+173,बिल्सी,00780,Bilsi,149,बदायूँ,Badaun
+174,बिसौली,00779,Bisuli,149,बदायूँ,Badaun
+175,सहसवान,00781,Sahaswan,149,बदायूँ,Badaun
+176,आंवला,00786,Aonla ,150,बरेली,Bareilly
+177,नवावगंज,00788,Nawabganj,150,बरेली,Bareilly
+178,फरीदपुर,00789,Faridpur,150,बरेली,Bareilly
+179,बरेली,00787,Bareilly,150,बरेली,Bareilly
+180,बहेड़ी,00784,Baheri,150,बरेली,Bareilly
+181,मीरगंज,00785,Mirganj,150,बरेली,Bareilly
+182,उतरौला,00927,Utrula,182,बलरामपुर,Balrampur
+183,तुलसीपुर,00926,Tulsipur,182,बलरामपुर,Balrampur
+184,बलरामपुर,00925,Balrampur,182,बलरामपुर,Balrampur
+185,बलिया सदर,00978,Balia Sadar,193,बलिया,Ballia
+186,बाँसडीह,00979,Bansdih,193,बलिया,Ballia
+187,बेल्थरा रोड,00975,Belthra Road,193,बलिया,Ballia
+188,बैरिया,00980,Baria,193,बलिया,Ballia
+189,रसड़ा,00977,Rasra,193,बलिया,Ballia
+190,सिकन्दरपुर,00976,Sikandarpur,193,बलिया,Ballia
+191,बस्ती,00939,Basti,185,बस्ती,Basti
+192,भानपुर,00937,Bhanpur,185,बस्ती,Basti
+193,रूधौली,00940,Rudhauli,185,बस्ती,Basti
+194,हरैया,00938,Harraiya,185,बस्ती,Basti
+195,कैसरगंज,00922,Kaisarganj,180,बहराइच,Behraich
+196,नानपारा,00919,Nanpara,180,बहराइच,Behraich
+197,पयागपुर,01052,Payagpur,180,बहराइच,Behraich
+198,बहराइच,00921,Bahraich,180,बहराइच,Behraich
+199,महसी,00920,Mahsi,180,बहराइच,Behraich
+200,मिहींपुरवा स्थित मोतीपुर,01055,Mihinpurwa Motipur,180,बहराइच,Behraich
+201,खेकडा,00737,Kekda,139,बागपत,Bagpat
+202,बडौत,00735,Baraut,139,बागपत,Bagpat
+203,बागपत,00736,Baghpat,139,बागपत,Bagpat
+204,नबाबगंज,00898,Nawabganj ,176,बाराबंकी,Barabanki
+205,फतेहपुर,00896,Fatehpur,176,बाराबंकी,Barabanki
+206,रामनगर,00897,Ramnagar,176,बाराबंकी,Barabanki
+207,रामसनेही घाट,00900,Ramsnehi pier,176,बाराबंकी,Barabanki
+208,सिरौली गौसपुर,00899,Siruli Guspur,176,बाराबंकी,Barabanki
+209,हैदरगढ़,00901,Haidargarh,176,बाराबंकी,Barabanki
+210,अतर्रा,00873,Atarra,170,बाँदा,Banda
+211,नरैनी,00874,Nraini,170,बाँदा,Banda
+212,पैलानी,01029,Pailani,170,बाँदा,Banda
+213,बबेरू,00872,Baberu,170,बाँदा,Banda
+214,बाँदा,00871,Banda,170,बाँदा,Banda
+215,चाँदपुर,00716,Chandpur,134,बिजनौर,Bijnor
+216,धामपुर,00715,Dhampur,134,बिजनौर,Bijnor
+217,नगीना,00714,Nagina,134,बिजनौर,Bijnor
+218,नजीबाबाद,00712,Najibabad,134,बिजनौर,Bijnor
+219,बिजनौर,00713,Bijnor,134,बिजनौर,Bijnor
+220,अनूपशहर,00748,Anupshahr,142,बुलन्द शहर,Bulandshahar
+221,खुर्जा,00751,Khurja,142,बुलन्द शहर,Bulandshahar
+222,डिबाई,00749,Debye,142,बुलन्द शहर,Bulandshahar
+223,बुलन्दशहर,00746,Bulandshahar,142,बुलन्द शहर,Bulandshahar
+224,शिकारपुर,00750,Shikarpur,142,बुलन्द शहर,Bulandshahar
+225,सिकन्द्राबाद,00745,Sikndraabad,142,बुलन्द शहर,Bulandshahar
+226,स्याना,00747,Siana,142,बुलन्द शहर,Bulandshahar
+227,औराई्,00999,Aurai,198,भदोही,Bhadohi
+228,ज्ञानपुर,00998,Gyanpur,198,भदोही,Bhadohi
+229,भदोही,00997,Bhadohi,198,भदोही,Bhadohi
+230,घोसी,00971,Ghosi,192,मऊ,Mau
+231,मऊनाथ भंजन,00973,Maunath bhanjan,192,मऊ,Mau
+232,मधुबन,00972,Madhuban,192,मऊ,Mau
+233,मुहम्मदाबाद गोहना,00974,Muhammadabad Gohna,192,मऊ,Mau
+234,गोवर्धन,01048,Govardhan,145,मथुरा,Mathura
+235,छाता,00761,Chata,145,मथुरा,Mathura
+236,महावन,00763,Mahavan,145,मथुरा,Mathura
+237,मांट,00762,Mant,145,मथुरा,Mathura
+238,सदर,00764,Mathura,145,मथुरा,Mathura
+239,निचलौल,00945,Nichlaul,187,महाराजगंज,Maharajganj
+240,नौतनवॉ,00944,Nautanwa,187,महाराजगंज,Maharajganj
+241,फरेन्दा,00946,Pharenda,187,महाराजगंज,Maharajganj
+242,महराजगंज,00947,Maharajganj (Sadar),187,महाराजगंज,Maharajganj
+243,कुलपहाङ,00868,Kulpahar,169,महोबा,Mahoba
+244,चरखारी,00869,Charkhari,169,महोबा,Mahoba
+245,महोबा,00870,Mahoba ,169,महोबा,Mahoba
+246,चुनार,01003,Chunar,199,मिर्जापुर,Mirzapur
+247,मडिहान,01002,Marihan,199,मिर्जापुर,Mirzapur
+248,लालगंज,01001,Lalganj,199,मिर्जापुर,Mirzapur
+249,सदर,01000,Mirzapur,199,मिर्जापुर,Mirzapur
+250,खतौली,00710,Khatauli,133,मुजफफर नगर,Muzaffarnagar
+251,जानसठ,00711,Janst,133,मुजफफर नगर,Muzaffarnagar
+252,बुढ़ाना,00709,Budhana,133,मुजफफर नगर,Muzaffarnagar
+253,सदर,00708,Muzaffarnagar,133,मुजफफर नगर,Muzaffarnagar
+254,कांठ,00718,Kant,135,मुरादाबाद,Moradabad
+255,ठाकुरद्वारा,00717,Thakurdwara,135,मुरादाबाद,Moradabad
+256,बिलारी,00720,Bilari,135,मुरादाबाद,Moradabad
+257,मुरादाबाद,00719,Moradabad,135,मुरादाबाद,Moradabad
+258,मवाना,00733,Mawana,138,मेरठ,Meerut
+259,सदर,00734,Meerut Sadar,138,मेरठ,Meerut
+260,सरधना,00732,Sardhana,138,मेरठ,Meerut
+261,करहल,00776,Karhal,148,मैनपुरी,Mainpuri
+262,किशनी,01033,Kishni,148,मैनपुरी,Mainpuri
+263,कुरावली,01054,Kurawali,148,मैनपुरी,Mainpuri
+264,घिरोर,01044,Ghiror,148,मैनपुरी,Mainpuri
+265,भोगांव,00777,Bhogaon ,148,मैनपुरी,Mainpuri
+266,मैनपुरी,00775,Mainpuri,148,मैनपुरी,Mainpuri
+267,टाण्डा,00724,Tanda,136,रामपुर,Rampur
+268,बिलासपुर,00725,Bilaspur,136,रामपुर,Rampur
+269,मिलक,00728,Milk,136,रामपुर,Rampur
+270,शाहवाद,00727,Shahabad ,136,रामपुर,Rampur
+271,सदर,00726,Rampur,136,रामपुर,Rampur
+272,स्वार,00723,Suar,136,रामपुर,Rampur
+273,ऊँचाहार,00828,Unchahar,158,रायबरेली,Raebareli
+274,डलमऊ,00827,Dalmau,158,रायबरेली,Raebareli
+275,महराजगंज,00823,Maharajganj,158,रायबरेली,Raebareli
+276,रायबरेली,00825,Raebareli,158,रायबरेली,Raebareli
+277,लाल गंज,00826,Lalganj ,158,रायबरेली,Raebareli
+278,सलोन,00829,Salon,158,रायबरेली,Raebareli
+279,बख्शी का तालाब,00820,Bakshi Ka Talab,157,लखनऊ,Lucknow
+280,मलिहाबाद,00819,Malihabad,157,लखनऊ,Lucknow
+281,मोहनलालगंज,00822,Mohanlalganj,157,लखनऊ,Lucknow
+282,लखनऊ,00821,Lucknow,157,लखनऊ,Lucknow
+283,सरोजनी नगर,01041,Sarojini Nagar,157,लखनऊ,Lucknow
+284,तालबेहट,00861,Talbehat,167,ललितपुर,Lalitpur
+285,पाली,01046,Pali,167,ललितपुर,Lalitpur
+286,मडावरा,01047,Madawara,167,ललितपुर,Lalitpur
+287,महरौनी,00863,Mahruni,167,ललितपुर,Lalitpur
+288,ललितपुर,00862,Lalitpur,167,ललितपुर,Lalitpur
+289,पिण्डरा,00995,Pindra,197,वाराणसी,Varanasi
+290,राजा तालाब,01035,Raja Ka Talab,197,वाराणसी,Varanasi
+291,सदर,00996,Varanasi,197,वाराणसी,Varanasi
+292,ऊन,01039,Unn,206,शामली,Shamli
+293,कैराना,00706,Kairana,206,शामली,Shamli
+294,शामली,00707,Shamli,206,शामली,Shamli
+295,कलान,01060,Kalan,152,शाहजहांपुर,Shahjahanpur
+296,जलालाबाद,00796,Jalalabad,152,शाहजहांपुर,Shahjahanpur
+297,तिलहर,00794,Tilhar,152,शाहजहांपुर,Shahjahanpur
+298,पुवायाँ,00793,Powayan,152,शाहजहांपुर,Shahjahanpur
+299,सदर,00795,Shahjahanpur,152,शाहजहांपुर,Shahjahanpur
+300,इकौना,00924,Ikauna,181,श्रावस्ती,Shravasti
+301,जमुनहा,01034,Jamunaha,181,श्रावस्ती,Shravasti
+302,भिनगा,00923,Bhinga,181,श्रावस्ती,Shravasti
+303,खलीलाबाद,00942,Khalilabad,186,सन्तकबीर नगर,Santkabirnagar
+304,धनघटा,00943,Ghanghata,186,सन्तकबीर नगर,Santkabirnagar
+305,मेहदावल,00941,Mehdawal,186,सन्तकबीर नगर,Santkabirnagar
+306,गुन्नौर,00778,Gunnaur,205,सम्भल,Sambhal
+307,चन्दौसी,00722,Chandausi,205,सम्भल,Sambhal
+308,सम्भल,00721,Sambhal,205,सम्भल,Sambhal
+309,देवबन्द,00704,Deoband,132,सहारनपुर,Saharanpur
+310,नकुड़,00703,Nakur,132,सहारनपुर,Saharanpur
+311,बेहट,00701,Behat,132,सहारनपुर,Saharanpur
+312,रामपुर मनिहारान,00705,Rampur Maniharan,132,सहारनपुर,Saharanpur
+313,सहारनपुर,00702,Saharanpur,132,सहारनपुर,Saharanpur
+314,इटवा,00935,Itwa,184,सिद्धार्थनगर,Sidharthnagar
+315,डुमरियागंज,00936,Domariyaganj,184,सिद्धार्थनगर,Sidharthnagar
+316,नौगढ,00933,Naugarh,184,सिद्धार्थनगर,Sidharthnagar
+317,बाँसी,00934,Bansi,184,सिद्धार्थनगर,Sidharthnagar
+318,शोहरतगढ़,00932,Shohratgarh,184,सिद्धार्थनगर,Sidharthnagar
+319,बिसवां,00806,Biswan,154,सीतापुर,Sitapur
+320,महमूदाबाद,00807,Mahmoodabad,154,सीतापुर,Sitapur
+321,महोली,01027,Maholi,154,सीतापुर,Sitapur
+322,मिश्रिख,00803,Misrikh,154,सीतापुर,Sitapur
+323,लहरपुर,00805,Laharpur,154,सीतापुर,Sitapur
+324,सिधौली,00808,Sidhauli,154,सीतापुर,Sitapur
+325,सीतापुर,00804,Sitapur,154,सीतापुर,Sitapur
+326,कादीपुर,00918,Kadipur,179,सुल्तानपुर,Sultanpur
+327,जयसिंहपुर,00916,Jaisinghpur,179,सुल्तानपुर,Sultanpur
+328,बल्दीराय,01058,Baldirai,179,सुल्तानपुर,Sultanpur
+329,लम्भुआ,00917,Lmbhua,179,सुल्तानपुर,Sultanpur
+330,सदर,00915,Sultanpur,179,सुल्तानपुर,Sultanpur
+331,ओबरा,01062,Obra,200,सोनभद्र,Sonbhadra
+332,घोरावल,01004,Ghorawal,200,सोनभद्र,Sonbhadra
+333,दुद्धी,01006,Duddhi,200,सोनभद्र,Sonbhadra
+334,राबर्टसगंज,01005,Rabertsganj,200,सोनभद्र,Sonbhadra
+335,मौदहा,00867,Maudaha,168,हमीरपुर,Hamirpur
+336,राठ,00865,Rath,168,हमीरपुर,Hamirpur
+337,सरीला,00866,Sarila,168,हमीरपुर,Hamirpur
+338,हमीरपुर,00864,Hamirpur,168,हमीरपुर,Hamirpur
+339,बिलग्राम,00812,Bilgram,155,हरदोई,Hardoi
+340,शाहाबाद,00809,Shahabad,155,हरदोई,Hardoi
+341,सण्डीला,00813,Sandila,155,हरदोई,Hardoi
+342,सवायजपुर,00810,Swayjpur,155,हरदोई,Hardoi
+343,हरदोई,00811,Hardoi,155,हरदोई,Hardoi
+344,सादाबाद,00760,Sadabad,144,हाथरस,Hathras
+345,सासनी,00757,Sasni,144,हाथरस,Hathras
+346,सिकन्दराराऊ,00758,Siknderarau,144,हाथरस,Hathras
+347,हाथरस,00759,Hathras,144,हाथरस,Hathras
+348,गढ़ मुक्तेश्वर,00741,GarhMukteshwar,204,हापुड़,Hapur
+349,धौलाना,01019,Dhaulana,204,हापुड़,Hapur
+350,हापुड़,00740,Hapur,204,हापुड़,Hapur
